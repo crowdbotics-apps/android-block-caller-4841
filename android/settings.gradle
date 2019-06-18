@@ -1,0 +1,3 @@
+rootProject.name = 'android_block_caller_4841'
+
+include ':app'

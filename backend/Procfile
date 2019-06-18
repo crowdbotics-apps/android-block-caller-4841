@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT android_block_caller_4841.wsgi:application
